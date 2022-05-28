@@ -1,0 +1,12 @@
+---
+title: test1
+author: seolmin
+date: '2022-05-28'
+slug: test1
+categories:
+  - R
+tags:
+  - plot
+---
+
+This is my first post.
